@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FHSTPGroup3B</string>
+    <string name="greeting">Hello there!</string>
+    <string name="blood_type">Blood type</string>
+</resources>

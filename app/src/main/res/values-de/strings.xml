@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gruppe 3B</string>
+    <string name="greeting">Hallo zusammen!</string>
+    <string name="blood_type">Blutgruppe</string>
+</resources>
